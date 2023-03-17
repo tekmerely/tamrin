@@ -1,0 +1,42 @@
+h1,p{
+    color: skyblue;
+}
+.green{
+    color: green;
+
+}
+
+.brown{
+    color: brown;
+}
+
+.font{
+    font-size: 50px;
+}
+#labal{
+    font-size: 40px;
+}
+.red{
+    background: red;
+    color: yellow;
+}
+.white{
+    background-color: blue;
+    color: white;
+}
+
+
+/* faqat p haE ke mostaghiman be div vaslan
+div > p {
+    color: antiquewhite;
+} */
+/* faqat pE ke bade div hast
+div + p {
+    color: antiquewhite;
+}  */
+
+
+/* hame p haE ke bade div hastan
+div ~ p {
+    color: antiquewhite;
+}  */
