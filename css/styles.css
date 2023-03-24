@@ -36,10 +36,20 @@ h1,p{
     background-color: blueviolet;
     height: calc(100vh - 50px);
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+
 .lorem{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Delicious Handrawn', cursive;
     font-weight: 700;
     text-align: center;
+    line-height: 2;
+    word-spacing: 20px;
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: none;
 }
 
 /* faqat p haE ke mostaghiman be div vaslan
